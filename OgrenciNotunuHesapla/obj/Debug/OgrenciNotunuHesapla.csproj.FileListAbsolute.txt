@@ -1,0 +1,8 @@
+C:\Users\cemre.turkmen\source\repos\OgrenciNotunuHesapla\bin\Debug\OgrenciNotunuHesapla.exe.config
+C:\Users\cemre.turkmen\source\repos\OgrenciNotunuHesapla\bin\Debug\OgrenciNotunuHesapla.exe
+C:\Users\cemre.turkmen\source\repos\OgrenciNotunuHesapla\bin\Debug\OgrenciNotunuHesapla.pdb
+C:\Users\cemre.turkmen\source\repos\OgrenciNotunuHesapla\obj\Debug\OgrenciNotunuHesapla.csproj.AssemblyReference.cache
+C:\Users\cemre.turkmen\source\repos\OgrenciNotunuHesapla\obj\Debug\OgrenciNotunuHesapla.csproj.SuggestedBindingRedirects.cache
+C:\Users\cemre.turkmen\source\repos\OgrenciNotunuHesapla\obj\Debug\OgrenciNotunuHesapla.csproj.CoreCompileInputs.cache
+C:\Users\cemre.turkmen\source\repos\OgrenciNotunuHesapla\obj\Debug\OgrenciNotunuHesapla.exe
+C:\Users\cemre.turkmen\source\repos\OgrenciNotunuHesapla\obj\Debug\OgrenciNotunuHesapla.pdb
